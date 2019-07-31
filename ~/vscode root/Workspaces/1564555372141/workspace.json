@@ -1,0 +1,89 @@
+{
+	"folders": [
+		{
+			"path": "/home/stark/Documents/GIT/Colour-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Currency-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Date-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Description-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Email-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Mobile-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Name-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Password-Function"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Pincode"
+		},
+		{
+			"path": "/home/stark/Documents/GIT/Telephone-Function"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"chrono": "cpp",
+			"condition_variable": "cpp",
+			"cstdint": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"new": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"regex": "cpp",
+			"shared_mutex": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"type_traits": "cpp",
+			"tuple": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp"
+		}
+	}
+}

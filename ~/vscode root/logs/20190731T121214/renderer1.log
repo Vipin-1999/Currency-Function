@@ -1,0 +1,148 @@
+[2019-07-31 12:13:36.535] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/City-Function/.vscode'
+[2019-07-31 12:13:36.535] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/City-Function/.vscode'
+[2019-07-31 12:13:36.535] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Colour-Function/.vscode'
+[2019-07-31 12:13:36.535] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Colour-Function/.vscode'
+[2019-07-31 12:13:36.535] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Currency-Function/.vscode'
+[2019-07-31 12:13:36.535] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Currency-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Date-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Date-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Description-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Description-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Email-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Email-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Name-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Name-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Password-Function/.vscode'
+[2019-07-31 12:13:36.536] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Password-Function/.vscode'
+[2019-07-31 12:13:36.537] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Pincode/.vscode'
+[2019-07-31 12:13:36.537] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Pincode/.vscode'
+[2019-07-31 12:40:54.873] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at X.getDataNode (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:968:904)
+    at X.updateWidth (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:966:673)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5352:82)
+    at i.elementDisposable.i.label.onDidRender (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5335:925)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at D.render (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4444:576)
+    at D.notifyFileDecorationsChanges (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4441:569)
+    at _widgets.forEach.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:744)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:731)
+    at e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:61)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at setTimeout (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:344)
+[2019-07-31 12:40:54.904] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at X.getDataNode (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:968:904)
+    at X.updateWidth (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:966:673)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5352:82)
+    at i.elementDisposable.i.label.onDidRender (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5335:925)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at D.render (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4444:576)
+    at D.notifyFileDecorationsChanges (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4441:569)
+    at _widgets.forEach.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:744)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:731)
+    at e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:61)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at _dispoable._provider.onDidChange.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2786:804)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at g.$onDidChange (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3249:21)
+    at u._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3324:539)
+    at u._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3324:231)
+    at u._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3322:903)
+    at u._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3321:711)
+    at _protocol.onMessage.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3319:990)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at a (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:322:769)
+    at e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:322:815)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at S._receiveMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:331:670)
+    at S._socketDisposables.push._socketReader.onMessage.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:328:981)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at g.acceptChunk (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:325:532)
+    at _register._socket.onData.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:324:869)
+    at Socket.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:333:886)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-07-31 12:40:54.924] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at X.getDataNode (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:968:904)
+    at X.updateWidth (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:966:673)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5352:82)
+    at i.elementDisposable.i.label.onDidRender (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5335:925)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at D.render (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4444:576)
+    at D.notifyFileDecorationsChanges (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4441:569)
+    at _widgets.forEach.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:744)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:731)
+    at e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:61)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at Object.o.toDisposable [as dispose] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2788:734)
+    at Array.isArray.e.forEach.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:71:674)
+    at Array.forEach (<anonymous>)
+    at Object.o [as dispose] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:71:651)
+    at g.$unregisterDecorationProvider (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3249:126)
+    at u._doInvokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3324:539)
+    at u._invokeHandler (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3324:231)
+    at u._receiveRequest (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3322:903)
+    at u._receiveOneMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3321:711)
+    at _protocol.onMessage.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3319:990)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at a (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:322:769)
+    at e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:322:815)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at S._receiveMessage (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:331:670)
+    at S._socketDisposables.push._socketReader.onMessage.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:328:981)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at g.acceptChunk (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:325:532)
+    at _register._socket.onData.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:324:869)
+    at Socket.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:333:886)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:283:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-07-31 12:40:54.948] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at X.getDataNode (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:968:904)
+    at X.updateWidth (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:966:673)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5352:82)
+    at i.elementDisposable.i.label.onDidRender (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5335:925)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at D.render (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4444:576)
+    at D.notifyFileDecorationsChanges (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4441:569)
+    at _widgets.forEach.t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:744)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:4438:731)
+    at e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:61)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:760)
+    at Object.o.toDisposable [as dispose] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:2788:734)
+    at Array.isArray.e.forEach.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:71:674)
+    at Array.forEach (<anonymous>)
+    at Object.o [as dispose] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:71:651)
+    at _provider.forEach.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3248:594)
+    at Map.forEach (<anonymous>)
+    at g.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3248:581)
+    at e.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3332:440)
+    at P._stopExtensionHostProcess (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3206:299)
+    at P.restartExtensionHost (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3207:201)
+    at C.S.extensionHostRestarter._register.g.RunOnceScheduler [as runner] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3052:519)
+    at C.doRun (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:106:181)
+    at C.onTimeout (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:106:147)
+[2019-07-31 12:40:55.305] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Colour-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Colour-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Currency-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Currency-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Date-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Date-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Description-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Description-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Email-Function/.vscode'
+[2019-07-31 12:40:55.306] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Email-Function/.vscode'
+[2019-07-31 12:40:55.308] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Pincode/.vscode'
+[2019-07-31 12:40:55.308] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Pincode/.vscode'
+[2019-07-31 12:40:55.308] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Name-Function/.vscode'
+[2019-07-31 12:40:55.308] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Name-Function/.vscode'
+[2019-07-31 12:40:55.309] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Password-Function/.vscode'
+[2019-07-31 12:40:55.309] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Password-Function/.vscode'
