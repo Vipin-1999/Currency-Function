@@ -14,3 +14,13 @@
 [2019-07-31 19:39:07.822] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Pincode/.vscode'
 [2019-07-31 19:39:07.824] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Password-Function/.vscode'
 [2019-07-31 19:39:07.824] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Documents/GIT/Password-Function/.vscode'
+[2019-07-31 21:25:31.744] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:96:851)
+    at s.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:96:191)
+    at q.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:953:992)
+    at W.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5410:345)
+    at W.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5410:202)
+    at W.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5407:531)
+    at W._register.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5406:572)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:780)
+    at setTimeout (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:344)

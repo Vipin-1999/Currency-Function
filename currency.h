@@ -8,7 +8,7 @@
 typedef unsigned long size_t;
 typedef std::vector<std::string> cvector;
 
-// #include "nbind/nbind.h"
+#include "nbind/nbind.h"
 
 class Currency       {
     public:
@@ -23,13 +23,11 @@ class Currency       {
 
 #endif 
 
-/* NBIND_CLASS(Currency){
+NBIND_CLASS(Currency){
     construct<>();
-    multimethod(Validate, args(std::string), "Validate");
-    multimethod(Validate, args(std::string, std::string), "ValidateWithAreaCode");
-    multimethod(Random, args(bool), "Random");
-    multimethod(Random, args(bool, std::string), "RandomWithAreaCode");
-    method(Ccode);
+    method(VectorInit);
+    method(Validate);
+    method(Random);
     method(Generate);
     method(Generate_Invalid);
-} */
+}
