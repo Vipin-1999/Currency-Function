@@ -1359,5 +1359,22 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/stark/Documents/GIT"
+    "pickerWorkingDir": "/home/stark/Documents/GIT",
+    "windowsState": {
+        "lastActiveWindow": {
+            "workspaceIdentifier": {
+                "id": "0c58033b3556bb01ec2d109dafd1c8bb",
+                "configURIPath": "file:///home/stark/Documents/GIT/Currency-Function/~/vscode%20root/Workspaces/1564555372141/workspace.json"
+            },
+            "backupPath": "/home/stark/Documents/GIT/Currency-Function/~/vscode root/Backups/0c58033b3556bb01ec2d109dafd1c8bb",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 54,
+                "width": 1280,
+                "height": 666
+            }
+        },
+        "openedWindows": []
+    }
 }

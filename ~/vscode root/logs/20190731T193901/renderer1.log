@@ -24,3 +24,13 @@
     at W._register.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5406:572)
     at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:780)
     at setTimeout (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:344)
+[2019-07-31 21:28:44.082] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:96:851)
+    at s.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:96:191)
+    at q.isCollapsed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:953:992)
+    at W.revealMarkersForCurrentActiveEditor (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5410:345)
+    at W.autoReveal (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5410:202)
+    at W.onActiveEditorChanged (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5407:531)
+    at W._register.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:5406:572)
+    at d.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:79:780)
+    at setTimeout (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:76:344)
