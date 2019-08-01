@@ -1,21 +1,21 @@
-AUTO = npm run -- autogypi
-GYPFLAGS = --init-gyp -p nbind -s
-NG = npm run -- node-gyp
-cpp = currency.cpp
-RUNINIT = $(AUTO) $(GYPFLAGS) $(cpp)
+SW = swig
+NG = node-gyp
+dcpp = currency.cpp
+dwcxx= currency_wrap.cxx
+INTFILE = ./currency.i
+SFLAGS = -c++ -javascript -node
 NFLAGS = configure build
+INC = -I/usr/lib/node_modules/node-gyp -I/usr/include/node -I/usr/share/swig/4.0.0
 all: build mv clean
 
-build : config
-	$(NG) $(NFLAGS) 
-
-config :
-	$(RUNINIT)
-
+build : $(dcpp) $(dwcxx)
+	$(NG) $(NFLAGS) $(INC)
 
 mv :
-	cp build/Release/nbind.node ./Currency.node
+	mv build/Release/Currency.node ./
 
+$(dwcxx) : $(dcpp)
+	$(SW) $(SFLAGS) $(INC) $(INTFILE)
 
 clean : 
-	rm -rf auto-top.gypi auto.gypi binding.gyp autogypi.json build
+	rm -rf $(dwcxx) build 
