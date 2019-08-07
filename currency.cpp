@@ -58,7 +58,7 @@ std::string Currency::Random(bool x)        {
     return Full_number;
 }
 
-std::string Currency::Generate(int length)        {
+std::string Currency::Generate(size_t length)        {
     auto randchar = []() -> char    {
         const char charset[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         const size_t max_index = (sizeof(charset) - 1);
@@ -70,7 +70,7 @@ std::string Currency::Generate(int length)        {
     return str;
 }
 
-std::string Currency::Generate_Invalid(int length)        {
+std::string Currency::Generate_Invalid(size_t length)        {
     auto randchar = []() -> char    {
         const char charset[] =
         "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

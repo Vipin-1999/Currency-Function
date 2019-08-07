@@ -16,8 +16,8 @@ class Currency       {
     bool Validate(std::string);
     std::string GetCurrencyName(std::string);
     std::string Random(bool); 
-    std::string Generate(int);
-    std::string Generate_Invalid(int);
+    std::string Generate(size_t);
+    std::string Generate_Invalid(size_t);
     cvector CList, UList;
 };
 
