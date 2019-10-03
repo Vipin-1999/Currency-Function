@@ -11,5 +11,5 @@ Compilation of Several Functions which deals with generation and validation of a
     GetCurrencyName(std::string) //Returns the Currency name
 
 ## Generate Number
-    Generate(int) //Generates a valid zip-code
-    Generate_Invalid(int, std::string) //Generates an invalid zip-code
+    Generate(int) //Generates a valid currency name
+    Generate_Invalid(int, std::string) //Generates an invalid currency name
